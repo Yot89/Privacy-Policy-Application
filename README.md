@@ -1,4 +1,4 @@
-# Privacy-Policy-Application
+# Policy Application
 
 Created for entertainment purposes only.</br>
 Created for simulation of gaming situations only.</br>
